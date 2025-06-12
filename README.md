@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Priyanka
 
-🎓 **3rd-year BCA student** | 🧠 **Self-taught Cybersecurity Enthusiast**  
+🎓 **3rd-year BCA student** | 🧠 ** Cybersecurity Enthusiast**  
 📍 From Acharya Nagarjuna University  
 
 💻 I'm currently doing **2 cybersecurity internships** where I'm learning about:
