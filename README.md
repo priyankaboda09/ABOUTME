@@ -1,56 +1,23 @@
- Priyanka Boda
-🎓 3rd-Year BCA Student |  Cybersecurity & Data Analytics Enthusiast
- About Me
+ Hi, I’m Priyanka 
 
-I’m a Computer Applications student passionate about Cybersecurity and Data Analytics.
-My focus is on building secure systems and extracting insights from data.
+I’m a technology student with a foundation in **Cybersecurity and Information Security**, now expanding into **Artificial Intelligence and Data Analytics**.  
 
- Interests
+I started out learning Blue Team operations, SOC workflows, and threat detection, where I gained hands-on experience with tools like Nmap, Wireshark, Burp Suite, and Metasploit. That phase helped me develop an attacker–defender mindset, sharpening my problem-solving and analytical skills.  
 
-Offensive Security & Penetration Testing
+Over time, my curiosity pulled me towards cloud computing, AI, and data analytics. Through Google Cloud projects and labs, I explored BigQuery ML, AutoML, Vision API, and Looker Studio — and discovered how data and AI can turn raw information into meaningful insights.  
 
-Vulnerability Assessment & Threat Detection
+These days, I’m building my skills in Python, SQL, Pandas, NumPy, and visualization tools like Power BI and Looker Studio, aiming to connect the worlds of **cybersecurity, AI, and analytics** together.  
 
-Data Analysis (Python, SQL, Visualization)
+My main areas of interest include:  
+- Threat detection and log analysis (SIEM basics, SOC workflows)  
+- Python for scripting and data analysis  
+- SQL and BigQuery for querying and insights  
+- Visualization with Looker Studio, Tableau, and Power BI  
+- Cloud AI tools such as AutoML, Vision API, and Natural Language API  
+- Fundamentals of web exploitation and security testing  
 
-Machine Learning & Neural Networks
+I see myself as someone who brings a **multi-domain perspective** — combining the sharpness of cybersecurity, the curiosity of AI, and the structure of analytics. Whether it’s identifying vulnerabilities, analyzing datasets, or building dashboards, I enjoy learning, experimenting, and growing with every challenge.  
 
- Skills
+I’m currently exploring opportunities in **data analytics, AI/ML projects, and cybersecurity roles** where I can apply this blended skill set to real-world problems.  
 
-Languages: Python, SQL, C
-
-Cybersecurity Tools: Burp Suite, Nmap, Wireshark, ffuf, Metasploit
-
-Data Tools: Pandas, NumPy, Matplotlib, Excel
-
-Other: Git/GitHub, Google Colab, Jupyter Notebook
-
- Projects
-
-📊 Netflix Data Analysis
- – Insights from Netflix dataset using Python
-
-🔐 Steganography
- – Data hiding techniques implementation
-
-🤖 Neural Networks & Deep Learning
- – Basic ML and neural network models
-
-🎮 HTML-CSS Gaming Site
- – Static website with interactive UI
-
-Goals
-
-Strengthen expertise in Cybersecurity & Digital Forensics
-
-Build real-world projects in Data Analytics
-
-Contribute to open-source security tools
-
-📫 Contact
-
- Email: priyankaboda838@gmail.com
-
- LinkedIn: www.linkedin.com/in/boda-priyanka-bb0897373
-
- GitHub: github.com/priyankaboda09
+If you’re working in these spaces, I’d love to connect, share ideas, and learn along the way 🚀  
